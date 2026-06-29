@@ -2,6 +2,7 @@
 
 // Component è la classe principale dei Class components che viene poi estesa dai NOSTRI Class components
 import { Component } from 'react';
+import './List.css';
 
 const first = 'Latte';
 const second = 'Caffè';
